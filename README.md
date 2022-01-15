@@ -13,16 +13,3 @@
 <a href="https://github.com/milyasarmans/milyasarmans">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=milyasarmans&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="M Ilyas Arman S's GitHub Stats" />
 </a>
-
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/milyasarmans
-[3]: https://www.linkedin.com/in/heinz-martin/
