@@ -1,3 +1,15 @@
+## Contact
+<h1 align='center'>
+    <a href="https://www.instagram.com/milyasarmans"><img
+            src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Instagram"></a>
+    <a href="https://web.facebook.com/milyasarmans"><img
+            src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"
+            alt="Facebook"></a>
+    <a href="https://www.linkedin.com/in/milyasarmans/"><img
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Linkedin"></a>
+</h1>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Code_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
