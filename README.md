@@ -1,3 +1,8 @@
+### Hi Guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<br />
+
+I'm M Ilyas Arman S currently a student at  Dian Nuswantoro University and aspiring web developer. My interest lies in Front-End Developer, and Back-End Developer. I have a love/hate relationship with Programming 😐
 
 
 ## GitHub Stats
@@ -10,7 +15,7 @@
 </a>
 
 ## Contact
-<h1 align='center'>
+<div align='center'>
     <a href="https://www.instagram.com/milyasarmans"><img
             src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
             alt="Instagram"></a>
@@ -20,4 +25,4 @@
     <a href="https://www.linkedin.com/in/milyasarmans/"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Linkedin"></a>
-</h1>
+</div>
